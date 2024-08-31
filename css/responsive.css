@@ -1,0 +1,591 @@
+/* <---Extra-X-Large-Size---> */
+
+@media only screen and (min-width: 100px) and (max-width: 1440px) {
+
+    .menu-all {
+        padding-left: 100px;
+    }
+    .section-1 {
+        background-color: #e4cd03;
+        padding: 21px 0;
+        position: relative;
+        z-index: -1;
+    }
+    .slick {
+        position: absolute;
+        top: -86px;
+        left: 362px;
+        display: flex;
+    }
+    .slider.slider-color {
+        background-color: transparent;
+        color: #55208c;
+        margin-right: -50px;
+    }
+    img.flower {
+        position: absolute;
+        top: -88px;
+        left: 385px;
+        width: 236px;
+        height: 108px;
+    }
+    .slick a {
+        font-size: 70px;
+        position: absolute;
+        left: 190px;
+        top: 2px;
+        color: #e4cd0378;
+    }
+    .arrow-2 a {
+        position: absolute;
+        left: 430px;
+        top: 2px;
+    }
+    .slider {
+        background-color: #55208c;
+        padding: 13px 124px 8px 30px;
+        /* border: 2px solid; */
+        margin: 0 1px;
+        color: #fff;
+    }
+    .geo {
+        position: absolute;
+        top: -70px;
+        left: 20px;
+    }
+    .ever-green {
+        background-color: #3b2158;
+        padding: 15px 20px 0;
+        width: 92%;
+        margin-top: 80px;
+    }
+    .dramas {
+        display: inline-block;
+        margin: 0 -265px 0 15px;
+    }
+    .drama-img img {
+        width: 53%;
+        height: 180px;
+    }
+    .drama-content {
+        width: 53%;
+        margin-bottom: 25px;
+    }
+    .footer-contant::before {
+        height: 20px;
+        position: absolute;
+        content: "";
+        background: #bcbbbb;
+        width: 1px;
+        top: 34px;
+        left: 746px;
+    }
+    .footer-contant::after {
+        height: 20px;
+        position: absolute;
+        content: "";
+        background: #bcbbbb;
+        width: 1px;
+        top: 34px;
+        left: 541px;
+    }
+    .drama-content h6 {
+        color: #e5bf20;
+        padding-top: 10px;
+        font-size: 20px;
+    }
+
+}
+
+
+
+/* <-- Large-Screen-Size---> */
+
+@media only screen and (min-width: 100px) and (max-width: 1200px) { 
+
+    .menu-1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: -50px;
+    }
+    .menu-1 ul {
+        
+        display: none;
+    }
+    .all-icons {
+        margin-left: -10px;
+        margin-top: 17px;
+        display: none;
+    }
+    .liv-tv-img {
+        display: flex;
+        margin-top: 9px;
+        position: absolute;
+        right: 20px;
+    }
+    .open-menu.md-none {
+        display: block;
+        float: left;
+        position: relative;
+        z-index: 1;
+        left: 20px;
+        top: 0;
+    }
+    .open-menu a {
+        font-size: 35px;
+        color: #feb804;
+    }
+
+    .section-1 {
+        background-color: #e4cd03;
+        padding: 20px 0;
+        position: relative;
+        z-index: -1;
+    }
+    .md-none {
+        display: none;
+    }
+    .slick-slicker {
+        position: absolute;
+        top: -86px;
+        left: 288px;
+        display: flex;
+    }
+    img.flower {
+        position: absolute;
+        top: -88px;
+        left: 300px;
+        width: 206px;
+        height: 108px;
+    }
+    .next-2 {
+        position: absolute;
+        right: 160px;
+        top: 25px;
+        letter-spacing: -4px;
+    }
+    .next-3 {
+        position: absolute;
+        right: 110px;
+        top: -62px;
+        letter-spacing: -4px;
+    }
+    .form-heading h1 {
+        margin-top: 60px;
+        margin-left: -340px;
+        color: #feb804;
+        font-weight: 400;
+        font-size: 35px;
+    }
+    .form-peragraph {
+        color: #fff;
+        margin-left: -50px;
+        margin-top: 40px;
+    }
+    .form-inputs input {
+        width: 35%;
+        height: 35px;
+        margin-top: 10px;
+    }
+    .form-inputs label {
+        color: #ffff;
+        font-size: 20px;
+        margin-right: 50px;
+    }
+    label.mt {
+        position: absolute;
+        left: 240px;
+        top: 300px;
+    }
+    .form-inputs textarea {
+        width: 35%;
+        height: 160px;
+        margin-left: 147px;
+        margin-top: 10px;
+    }
+    .footer-contant::before {
+        height: 20px;
+        position: absolute;
+        content: "";
+        background: #bcbbbb;
+        width: 1px;
+        top: 32px;
+        left: 525px;
+    }
+    .footer-contant::after {
+        height: 20px;
+        position: absolute;
+        content: "";
+        background: #bcbbbb;
+        width: 1px;
+        top: 32px;
+        left: 320px;
+    }
+    .main-footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        left: -61px;
+        bottom: 0;
+        background-color: #390a4d;
+        width: 106%;
+        padding: 25px 0 10px 0;
+    }
+
+    /* <---Blog Page---> */
+
+    .blog-goosip-heading {
+        padding: 60px 0 10px 40px;
+        color: #e5bf20;
+    }
+    .episodes {
+        margin-left: 15px;
+    }
+    .drama-img img {
+        width: 47%;
+        height: 150px;
+    }
+    .dramas {
+        display: inline-block;
+        margin: 0 -300px 0 15px;
+    }
+
+    .special {
+        position: absolute;
+        right: 44px;
+        top: 140px;
+        width: 23%;
+    }
+    .drama-content {
+        width: 44%;
+        margin-bottom: 30px;
+    }
+    .blog-goosip-heading h1 {
+        font-size: 36px;
+    }
+    .blog-heading {
+        margin-left: -75px;
+    }
+    .geo-contant {
+        width: 100%;
+        margin-left: -11px;
+        padding-right: 0px;
+    }
+    .ever-green {
+        background-color: #3b2158;
+        padding: 15px 20px 0;
+        width: 100%;
+        margin-top: 40px;
+    }
+    .ever-img img {
+        width: 100px;
+        height: 70px;
+    }
+    section.section-2 {
+        background-image: url(/images/big2_bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 2475px;
+        position: relative;
+        z-index: -1;
+    }
+    .clicker {
+        margin-top: 25px;
+        margin-left: 20px;
+    }
+
+}
+
+/* <--- tablet size Responsive---> */
+
+@media only screen and (min-width: 100px) and (max-width: 992px) {
+
+    .menu-1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: -100px;
+    }
+
+    .section-1 {
+        background-color: #e4cd03;
+        padding: 20px 0;
+        position: relative;
+        z-index: -1;
+        display: none;
+    }
+
+    section.section-2-form {
+        position: relative;
+        z-index: -1;
+        background-color: #03072f;
+    }
+    .main-footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        left: 0px;
+        bottom: 0;
+        background-color: #390a4d;
+        width: 100%;
+        padding: 85px 0 10px 0;
+    }
+
+    .footer-contant {
+        position: absolute;
+        bottom: 0px;
+    }
+    
+    .footer-links {
+        position: absolute;
+        top: 20px;
+        left: 290px;
+    }
+    
+    .footer-links img {
+        width: 80%;
+    }
+    .footer-contant::after {
+        height: 20px;
+        position: absolute;
+        content: "";
+        background: #bcbbbb;
+        width: 1px;
+        top: 0;
+        left: 281px;
+    }
+    .footer-contant::before {
+        height: 20px;
+        position: absolute;
+        content: "";
+        background: #bcbbbb;
+        width: 1px;
+        top: 0;
+        left: 80px;
+    }
+    .footer-contant a {
+        color: #bcbbbb;
+        font-size: 14px;
+    }
+    .footer-links ul {
+        display: flex;
+        gap: 10px;
+    }
+    .main-form {
+        margin-left: -160px;
+        margin-top: -40px;
+    }
+    .form-inputs {
+        position: relative;
+        top: 0;
+        left: 35px;
+    }
+    .form-inputs label {
+        color: #ffff;
+        font-size: 20px;
+        margin-right: 100px;
+    }
+    .form-inputs input {
+        width: 50%;
+        height: 35px;
+        margin-top: 10px;
+    }
+    label.mt {
+        position: absolute;
+        left: 130px;
+        top: 300px;
+    }
+    .form-inputs textarea {
+        width: 50%;
+        height: 160px;
+        margin-left: 181px;
+        margin-top: 10px;
+    }
+    .form-button button {
+        width: 110px;
+        height: 35px;
+        border: none;
+        background-color: #ffba02;
+        font-weight: 800;
+        font-size: 18px;
+        margin-top: 30px;
+        margin-left: 145px;
+    }
+
+    .menu-1 img {
+        padding: 0 0px 0 25px;
+        margin-right: 40px;
+    }
+}
+
+
+/* <---tablet-Size---> */
+
+
+@media only screen and (min-width: 100px) and (max-width: 768px) {
+
+    .menu-1 img {
+        padding: 0 0px 0 25px;
+        margin-right: -15px;
+    }
+    .mb-none{
+        display: none;
+    }
+    
+    .episodes {
+        margin-left: 15px;
+        width: 200%;
+    }
+    .drama-img img {
+        width: 55%;
+        height: 150px;
+    }
+    .dramas {
+        display: inline-block;
+        margin: 0 -250px 0 11px;
+    }
+
+    .drama-content {
+        width: 55%;
+        margin-bottom: 30px;
+    }
+
+}
+
+
+/* <---Mobile-Size---> */
+
+
+@media only screen and (min-width: 100px) and (max-width: 576px) {
+
+    .episodes {
+        margin-left: -6px;
+        width: 98%;
+    }
+
+    .dramas {
+        display: inline-block;
+        margin: 0px -170px 0 11px;
+        width: 100%;
+    }
+
+    .drama-img img {
+        width: 100%;
+        height: 200px;
+    }
+
+    .drama-content {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .menu-1 img {
+        width: 70px;
+        padding: 0 0px 0 25px;
+        margin-right: -15px;
+        height: 55px;
+    }
+    .liv-tv-img img {
+        height: 30px;
+    }
+    .tv-live p {
+        margin-top: 8px;
+        padding-left: 7px;
+        font-size: 14px;
+        font-weight: 700;
+        color: #fff;
+    }
+
+    section.section-2 {
+        background-image: url(/images/big2_bg.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 4835px;
+        position: relative;
+        z-index: -1;
+    }
+
+  
+        .clicker {
+            margin-top: 25px;
+            margin-left: 90px;
+        }
+
+        .footer-links {
+            position: absolute;
+            top: 20px;
+            left: 120px;
+        }
+        .last-footer {
+            overflow: hidden;
+            background-image: url(/images/ftr_bg.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100%;
+            height: 60px;
+            text-align: center;
+        }
+
+        /* <---CONTACT-FORM---> */
+        .main-form {
+            margin-left: 0px;
+            margin-top: -40px;
+        }
+        .form-inputs {
+            position: relative;
+            top: 0;
+            left: 0px;
+        }
+        .form-heading h1 {
+            margin-top: 60px;
+            margin-left: -194px;
+            color: #feb804;
+            font-weight: 400;
+            font-size: 30px;
+        }
+        .form-peragraph {
+            color: #fff;
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 90%;
+            text-align: justify;
+        }
+        .form-inputs label {
+            color: #ffff;
+            font-size: 16px;
+            margin-right: 310px;
+        }
+        .form-inputs input {
+            width: 90%;
+            height: 35px;
+            margin-bottom: 15px;
+        }
+        .form-inputs textarea {
+            width: 90%;
+            height: 160px;
+            margin-left: 5px;
+            margin-top: 35px;
+        }
+        label.mt {
+            position: absolute;
+            left: 20px;
+            top: 435px;
+        }
+        .form-button button {
+            width: 110px;
+            height: 35px;
+            border: none;
+            background-color: #ffba02;
+            font-weight: 800;
+            font-size: 18px;
+            margin-top: 30px;
+            margin-left: 0px;
+        }
+        input.ml {
+            margin-left: 0px;
+        }
+}
